@@ -9,7 +9,7 @@
 - Turn your repo into a default website, using the steps outlined in <https://bit-2021.netlify.app/assignment/01-project/>
        - modify content if you like, but for now it's fine to use the theme content provided and just change your name, email address, etc.
 - Locate class repo
-    - Find "kostis-christodoulou" in GitHub and locate the "gitHub-practice-ca09" class repo
+    - Find "kostis-christodoulou" in GitHub and locate the "github-practice-bit2021" class repo
     - Click on "README.md" >> Edit (pencil icon in upper right)
 - **Add a row** in the table below with your information, using the first row as a remplate
     - Name, Study Group, and Github ID, url for Github Repo for portfolio website, and portfolio website address 
