@@ -29,4 +29,6 @@
 |No | Name                  | Study Group   | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:--------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
-|02|ZONGO W Simeon  | none     | 73Simeon |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25
+|01|kabore davvid   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|02|zoma w rodrigue   | none     | rodriguezoma |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|03|ZONGO W Simeon  | none     | 73Simeon |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25
