@@ -34,7 +34,7 @@
 |03|ZONGO W Simeon  | none     | 73Simeon |<https://github.com/73Simeon/personal_website>   |<https://simeonwebsite.netlify.app/>        |2021-03-14
 |04|axeljoachimzongo   | none     | axelnig |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |05|KABORE W FLORENTIN   | none     | florentink|<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
-|06|Yameogo Philippe   | none     | philippe9-coder |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|06|Yameogo Philippe   | none     | philippe9-coder |<https://github.com/Philippe9-coder/My_Website_99>   |<https://philippewebsite99.netlify.app/>        |2021-03-15 
 |07|Tonde Salif   | none     | Tonde-salif |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |08|Semde Alexandre  | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |09|zongo celestin  | none     | celestincel |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
