@@ -31,7 +31,7 @@
 |00|Kostis Christodoulou   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |01|kabore davvid   | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |02|zoma w rodrigue   | none     | rodriguezoma |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
-|03|ZONGO W Simeon  | none     | 73Simeon |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25
+|03|ZONGO W Simeon  | none     | 73Simeon |<https://github.com/73Simeon/personal_website>   |<https://simeonwebsite.netlify.app/>        |2021-03-14
 |04|axeljoachimzongo   | none     | axelnig |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |05|KABORE W FLORENTIN   | none     | florentink|<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |06|Yameogo Philippe   | none     | philippe9-coder |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
