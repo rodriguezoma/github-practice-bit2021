@@ -38,3 +38,5 @@
 |07|Tonde Salif   | none     | Tonde-salif |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |08|Semde Alexandre  | none     | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
 |09|zongo celestin  | none     | celestincel |<https://github.com/kostis-christodoulou/my_website>   |<https://kostis-portfolio.netlify.app/>        |2020-08-25 
+|10|Bakouan Youba | none     | Y0uBs0N |<https://github.com/Y0uBs0N/Youbsonwebsite>   |<https://nwebsite.netlify.app/>        |2020-08-25 
+
